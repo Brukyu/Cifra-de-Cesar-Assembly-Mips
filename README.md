@@ -1,4 +1,5 @@
 # Sinopse do Slide
+![image](https://user-images.githubusercontent.com/75640701/219718999-b842573e-ec2b-4b95-9100-bb0f0e4b3dc6.png)
 + Introdução a Linguagem Assebly
 + Características da Linguagem
 + Instruções
