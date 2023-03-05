@@ -1,14 +1,14 @@
-# Sinopse do Slide
+# Slide synopsis
 ![image](https://user-images.githubusercontent.com/75640701/219718999-b842573e-ec2b-4b95-9100-bb0f0e4b3dc6.png)
-+ Introdução a Linguagem Assebly
-+ Características da Linguagem
-+ Instruções
-+ Aplicação
++ Introduction to Assebly Language
++ Language features
++ Instructions
++ Application
 
-<h1>Aplicação da Cifra de Cesar</h1>
-O programa pede que o usuário escreva uma mensagem e o deslocamento que ele queira e a aplicação criptografa o texto escrito. A mensagem a ser criptografada é armazenada na variável "msg" e a chave de criptografia (o deslocamento a ser aplicado a cada letra) é armazenada na variável "key". O programa usa um loop para percorrer cada letra da mensagem, criptografando-a e armazenando a letra criptografada de volta na mensagem. O resultado final é exibido na tela usando a função syscall com o código 4 para imprimir uma string.
+<h1>Application of the Caesar Cipher</h1>
+The program asks the user to write a message and the offset he wants and the application encrypts the written text. The message to be encrypted is stored in the "msg" variable and the encryption key (the offset to be applied to each letter) is stored in the "key" variable. The program uses a loop to go through each letter in the message, encrypting it and storing the encrypted letter back in the message. The final result is displayed on the screen using the syscall function with code 4 to print a string.
 
-## Tecnologias Necessárias
+## Necessary Technologies
 
 <table> 
   <tr> 
